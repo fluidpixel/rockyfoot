@@ -2,6 +2,11 @@
 
 theme: jekyll-theme-cayman
 
+# Site Settings
+site:
+  title: Rocky Foot and Ankle
+  description: Ruth Varrall Orthopeadic Surgeon
+
 # Footer settings
 footer:
   copyright: Dr. Ruth Varrall
