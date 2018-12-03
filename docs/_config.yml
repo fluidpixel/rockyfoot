@@ -12,12 +12,8 @@ footer:
   copyright: Dr. Ruth Varrall
   location: address
   social: DrRuthy
-  credits: Credits
 
 # Postal address (add as many lines as necessary)
 address:
   - line: Rockhampton Base Hospital
   - line: QLD
-
-# Credits content
-credits: 'Copyright Caroline Ruth Varrall'
