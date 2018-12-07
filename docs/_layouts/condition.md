@@ -2,7 +2,7 @@
     <main id="content" class="main-content" role="main">
       {% include navigation.html %}
       
-      #{{page.category}} {{page.name}} Surgery
+      #{{page.area}} - {{page.condition}} Surgery
 
       {{ content }}
 
