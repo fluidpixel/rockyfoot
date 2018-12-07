@@ -6,10 +6,10 @@ title: Conditions Treated
 
 * Forefoot
 
-... HV/Bunion
-... 1st MTPJ OH
-... Lesser Toe Deformity
-... Morton's Neuroma
+   HV/Bunion  
+   1st MTPJ OH  
+   Lesser Toe Deformity  
+   Morton's Neuroma  
 
 
 * Midfoot
