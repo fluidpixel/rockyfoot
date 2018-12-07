@@ -1,12 +1,12 @@
 ---
-layout: default
+layout: condition
 date: 2018-11-18
 img: cabin.png
 alt: image-alt
 category: Midfoot
 description: Midfoot OA Surgery
 name: OA
---
+---
 
 ##Symptoms
 The symptoms of {{page.name}} condition include:
