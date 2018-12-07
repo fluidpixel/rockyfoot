@@ -14,24 +14,24 @@ title: Conditions Treated
 
 * Midfoot
 
-... OA
-... Flatfoot/Tibpost
-... Callus foot/CMT
+   OA  
+   Flatfoot/Tibpost  
+   Callus foot/CMT  
 
 
 * Hindfoot
 
-... OA
-... Achilles Tendinopathy
+   OA  
+   Achilles Tendinopathy  
 
 
 * Ankle
 
-... OA Fusion & Replace
-... Instability
+   OA Fusion & Replace  
+   Instability  
 
 
 * Others
 
-... Tiptoe Walking
-... Tarsal Tunnel Syndrome
+   Tiptoe Walking  
+   Tarsal Tunnel Syndrome 
