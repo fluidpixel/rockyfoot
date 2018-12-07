@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Conditions Treated
+
 ---
+
 # Foot and Ankle Conditions Treated
 
 * Forefoot

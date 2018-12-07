@@ -1,7 +1,9 @@
 ---
 layout: default
 title: GP Referrals
+
 ---
+
 # How to refer a patient
 
 If you're a GP and wish to refer a patient to Dr Varrall then please read the following.
