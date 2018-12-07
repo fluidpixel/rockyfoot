@@ -14,7 +14,7 @@ title: Conditions Treated
 
 * Midfoot
 
-   OA  
+   [OA](conditions/midfoot-oa)  
    Flatfoot/Tibpost  
    Callus foot/CMT  
 
