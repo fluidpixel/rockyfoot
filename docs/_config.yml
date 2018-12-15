@@ -16,3 +16,7 @@ footer:
 address:
   - line: Rockhampton Base Hospital
   - line: QLD
+
+collections:
+  conditions:
+      output: true
