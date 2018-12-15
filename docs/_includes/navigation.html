@@ -5,7 +5,7 @@
   <a href="/referrals.html" {% if page.url == "/referrals.html" %}class="selected"{% endif %}>
     GP Referrals
   </a> | 
-  <a href="/conditions.html" {% if page.url == "/conditions.html" %}class="selected"{% endif %}>
+  <a href="/conditions.html" {% if page.url contains "/conditions" %}class="selected"{% endif %}>
     Conditions Treated
   </a> | 
   <a href="/about.html" {% if page.url == "/about.html" %}class="selected"{% endif %}>
