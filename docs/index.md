@@ -2,8 +2,10 @@
 layout: default
 title: Rockhampton Foot and Ankle Surgery
 ---
-# Welcome to Rockhampton Foot And Ankle
+# Welcome to Rockhampton Foot And Ankle Surgery
 
-Dr Ruth Varrall is a specialist foot and ankle surgeon in Central Queensland, centred at the Rockhampton Base Hospital.
+Dr Ruth Varrall is a fellowship trained Consultant Orthopaedic Foot and Ankle surgeon looking after patients in Central Queensland, and working at Rockhampton Base Hospital.
 
-There is information about your upcoming surgery and the types operations that Dr Varrall specialises in. There is also details for GP's if they wish to make a referral.
+This website provides information for both patients and GPs on the variety of conditions she treats, including the risks, benefits and expected outcomes of many different foot and ankle operations. 
+
+The referral process for GPs is available on the [GP Referral page](referrals).
