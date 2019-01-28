@@ -59,13 +59,13 @@ title: Conditions Treated
 * Ankle
 
    [Arthritis]()  
-   [Instability]()  
-   [Peroneal tendon pathology]()
-   [Intra-articular pathology]()
+   [Instability]()   
+   [Peroneal tendon pathology]() 
+   [Intra-articular pathology]() 
 
 
 * Others
 
    [Tiptoe Walking]()  
-   [Tarsal Tunnel Syndrome]()
-   [Diabetic Feet]()
+   [Tarsal Tunnel Syndrome]() 
+   [Diabetic Feet]() 
