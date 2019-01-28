@@ -5,9 +5,9 @@ area: Forefoot
 layout: condition
 title: Great Toe Arthritis (1st MTPJ OA)
 tags: forefoot
-Presentation: |
+presentation: |
   Patients will have pain and stiffness of their big toe joint. There are often prominent bony lumps on the top of their foot (dorsal osteophytes). 
-Investigation-gp:
+investigation-gp:
   Weight bearing foot X-ray (AP and lateral)
 
 recovery: |
