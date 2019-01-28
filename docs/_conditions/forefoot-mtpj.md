@@ -18,6 +18,7 @@ surgicalTreatment: |
   Cheilectomy - removal of the dorsal osteophyte and dorsal part of the joint.
     * only suitable if joint cartilage in good condition
     * preserves movement at MTPJ
+  
   MTPJ arthrodesis (fusion) - stiffening of the joint
     * Incision along inner border of big toe
     * Joint surfaces removed and bony edges held together with screws and plate
