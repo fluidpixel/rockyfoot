@@ -2,10 +2,10 @@
 layout: default
 ---
 
-<h1>{{page.area}} - {{page.name}} Surgery</h1>
+<h1>{{page.description}}</h1>
 
 <h2>Presentation</h2>
-
+{{ page.presentation  | markdownify }}
 
 <h2>Investigation</h2>
 Your GP should initially request these investigations:
@@ -15,13 +15,22 @@ Your GP should initially request these investigations:
 
 
 <h2>Conservative Treatment</h2>
-Initial treatment of {{page.conditnameion}} condition in the {{page.area}} it may be possible to:
+Initial treatment of {{ page.description }} could include:
 <p>{{ page.conservativeTreatment }}</p>
 
 
 <h2>Surgical Treatment</h2>
-If surgical treatment of {{page.name}} condition in the {{page.area}} is necessary then it will include:
+Surgical treatment of {{page.description}} includes:
 <p>{{ page.surgicalTreatment }}</p>
+<p> The risks of surgery are: </p>
+<ol>
+<li>Infection</li>
+<li>Damage to nerves/blood vessels</li>
+<li>DVT / PE (blood clots)</li>
+<li>Anaesthetic risks</li>
+{{ page.risks }}
+</ol>
+
 
 
 <h2>Recovery</h2>

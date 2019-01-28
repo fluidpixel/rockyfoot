@@ -3,19 +3,19 @@ name: 1st MTPJ OA
 description: Forefoot 1st MTPJ OA Surgery
 area: Forefoot
 layout: condition
-title: 1st MTPJ OA
+title: Great Toe Arthritis (1st MTPJ OA)
 tags: forefoot
 recovery: |
     Keep foot elevated as much as possible, especially for initial 72 hours. Keep dressings dry and intact until post operative appointment.
     
-    Pain killers may be required for up to 2 weeks. Antibiotics for up to 2 weeks.
+    Pain killers may be required for up to 2 weeks.
     
-    Removal of stitches/sutures: 10-14 days at first post operative appointment.
+    Removal of stitches: 10-14 days at first post operative appointment.
     
-    Protected weight bearing: 6 weeks on crutches
-    • post operative heel weight bearing wedge shoe.
+    Protected weight bearing:
+    • post operative flat DARCO shoe.
     • crutches as required.
-    • Maximum comfortable heel height 3 cm.
+    Maximum comfortable heel height 3 cm.
     
     Recommencement of most activities: 12 weeks. Full recovery: 3-6 months.
     
