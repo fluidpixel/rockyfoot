@@ -4,18 +4,18 @@ layout: default
 
 <h1>{{page.area}} - {{page.name}} Surgery</h1>
 
-<h2>Symptoms</h2>
-The symptoms of {{page.name}} condition include:
-<p>{{ page.symptoms }}</p>
+<h2>Presentation</h2>
 
 
 <h2>Investigation</h2>
-To investigate {{page.name}} condition in the {{page.area}} it is necessary to:
-<p>{{ page.investigation }}</p>
+Your GP should initially request these investigations:
+<p>{{ page.investigation-gp | markdownify }}</p>
+<p> Your surgeon may also request the following investigations for more information or surgical  planning:
+<p>{{ page.investigation-surgeon | markdownify }}</p>
 
 
 <h2>Conservative Treatment</h2>
-To treat the {{page.conditnameion}} condition in the {{page.area}} it may be possible to:
+Initial treatment of {{page.conditnameion}} condition in the {{page.area}} it may be possible to:
 <p>{{ page.conservativeTreatment }}</p>
 
 
@@ -26,4 +26,4 @@ If surgical treatment of {{page.name}} condition in the {{page.area}} is necessa
 
 <h2>Recovery</h2>
 Recovery from an {{page.area}} {{page.name}} surgery will include:
-<p>{{ page.recovery }}</p>
+<p>{{ page.recovery | markdownify }}</p>
