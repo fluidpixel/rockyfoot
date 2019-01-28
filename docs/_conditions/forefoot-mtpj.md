@@ -41,5 +41,3 @@ recovery: |
        
     Every patient’s recovery is individual and depends on the severity of the injury and the complexity of the surgery.
 ---
-
-Something about 1st MTPJ OH
