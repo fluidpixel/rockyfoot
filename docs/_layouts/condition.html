@@ -13,26 +13,22 @@ Your GP should initially request these investigations:
 <p> Your surgeon may also request the following investigations for more information or surgical  planning:
 <p>{{ page.investigation-surgeon | markdownify }}</p>
 
-
 <h2>Conservative Treatment</h2>
 Initial treatment of {{ page.description }} could include:
-<p>{{ page.conservativeTreatment }}</p>
-
+<p>{{ page.conservativeTreatment | markdownify }}</p>
 
 <h2>Surgical Treatment</h2>
 Surgical treatment of {{page.description}} includes:
-<p>{{ page.surgicalTreatment }}</p>
+<p>{{ page.surgicalTreatment | markdownify }}</p>
 <p> The risks of surgery are: </p>
 <ol>
 <li>Infection</li>
 <li>Damage to nerves/blood vessels</li>
 <li>DVT / PE (blood clots)</li>
 <li>Anaesthetic risks</li>
-{{ page.risks }}
+{{ page.risks | markdownify }}
 </ol>
 
-
-
 <h2>Recovery</h2>
-Recovery from an {{page.area}} {{page.name}} surgery will include:
+Recovery from {{ page.description }} surgery will include:
 <p>{{ page.recovery | markdownify }}</p>
