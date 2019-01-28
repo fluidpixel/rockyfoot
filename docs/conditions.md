@@ -36,32 +36,36 @@ title: Conditions Treated
 
 * Forefoot
 
-   [HV/Bunion](conditions/forefoot-bunion)  
-   [1st MTPJ OH](conditions/forefoot-mtpj)  
-   [Lesser Toe Deformity]()  
+   [Bunion (Hallux Valgus)](conditions/forefoot-bunion)  
+   [Great Toe Arthritis (1st MTPJ OA)](conditions/forefoot-mtpj)  
+   [Lesser Toe Deformities]()  
    [Morton's Neuroma]()  
 
 
 * Midfoot
 
-   [OA](conditions/midfoot-oa)  
-   [Flatfoot/Tibpost]()  
-   [Callus foot/CMT]()  
+   [Arthritis](conditions/midfoot-oa)  
+   [Flatfoot / Tibialis posterior dysfunction]()  
+   [Cavovarus foot / CMT]()  
 
 
 * Hindfoot
 
-   [OA]()  
+   [Arthritis]()  
    [Achilles Tendinopathy]()  
+   [Achilles Rupture - Acute or Chronic]()
 
 
 * Ankle
 
-   [OA Fusion & Replace]()  
+   [Arthritis]()  
    [Instability]()  
+   [Peroneal tendon pathology]()
+   [Intra-articular pathology]()
 
 
 * Others
 
    [Tiptoe Walking]()  
    [Tarsal Tunnel Syndrome]()
+   [Diabetic Feet]()
