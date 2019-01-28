@@ -11,4 +11,5 @@ investigation-gp: |
     **Weight bearing** Xrays (AP & Lateral).
 investigation-surgeon: |
     CT scan
+
 ---
