@@ -5,7 +5,6 @@ area: Forefoot
 layout: condition
 title: HV/Bunion
 tags: forefoot
----
 presentation: |
   Patients will have a bump on the inner side of their foot, often associated with redness and pain. The great toe deviates laterally. The deformity usually becomes progressively worse with time. Patients may also experience pain under the ball of the foot (transfer metatarsalgia). 
 investigation-gp: |
