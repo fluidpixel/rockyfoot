@@ -1,6 +1,6 @@
 ---
 name: HV/Bunion
-description: Forefoot HV/Bunion Surgery
+description: Bunion (Hallux Valgus)
 area: Forefoot
 layout: condition
 title: HV/Bunion
