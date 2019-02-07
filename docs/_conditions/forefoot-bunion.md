@@ -35,6 +35,6 @@ recovery: |
       * post operative flat DARCO shoe.
       * crutches as required.
   * Recommencement of most activities: 12 weeks. Full recovery: 3-6 months.
-       
-    Every patient’s recovery is individual and depends on the severity of the injury and the complexity of the surgery.
+  
+  Every patient’s recovery is individual and depends on the severity of the injury and the complexity of the surgery.
 ---
