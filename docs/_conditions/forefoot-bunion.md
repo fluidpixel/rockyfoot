@@ -6,13 +6,13 @@ layout: condition
 title: HV/Bunion
 tags: forefoot
 presentation: |
-  Patients will have a bump on the inner side of their foot, often associated with redness and pain. The great toe deviates laterally. The deformity usually becomes progressively worse with time. Patients may also experience pain under the ball of the foot (transfer metatarsalgia). 
+  Patients will have a prominence on the inner side of their foot, often associated with redness and pain. The great toe deviates laterally. The deformity usually becomes progressively worse with time. Patients may also experience pain under the ball of the foot (transfer metatarsalgia). 
 investigation-gp: |
   Weight bearing foot X-ray (AP, oblique and lateral)
 investigation-surgeon: |
   No other investigations are usually required
 conservativeTreatment: |
-  Accommodative footwear with wide toe box. Orthotics may also relieve discomfort, especially if the patient also has metatarsalgia.
+  Accommodative footwear with a wide toe box. Orthotics may also relieve discomfort, especially if the patient has metatarsalgia.
 surgicalTreatment: |
   Scarf + Akin osteotomy
     * Incision along medial border of great toe
@@ -26,6 +26,9 @@ risks: |
   1. Non-union
   1. Hallux varus (over-correction)
   1. Metalwork failure
+Other options: |
+  * If you are found to have a flexible foot, then fusion of the joint above the bunion may be offered (tarsometatarsal arthrodesis or Lapidus procedure). 
+  * The recovery from this is different - patients are placed in a plaster cast and require 6 weeks non-weightbearing.
 recovery: |
   * Keep foot elevated as much as possible, especially for initial 72 hours
   * Keep dressings dry and intact until post operative appointment.
