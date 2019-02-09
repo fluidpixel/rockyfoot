@@ -22,10 +22,10 @@ surgicalTreatment: |
     * Wound closed with non-absorbable stitches
     * Foot bandaged to reinforce position and placed in Darco MedSurg flat shoe
 risks: |
-1. Malunion
-1. Non-union
-1. Hallux varus (over-correction)
-1. Metalwork failure
+  1. Malunion
+  1. Non-union
+  1. Hallux varus (over-correction)
+  1. Metalwork failure
 Other options: |
   * If you are found to have a flexible foot, then fusion of the joint above the bunion may be offered (tarsometatarsal arthrodesis or Lapidus procedure). 
   * The recovery from this is different - patients are placed in a plaster cast and require 6 weeks non-weightbearing.
