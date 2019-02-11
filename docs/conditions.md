@@ -11,33 +11,33 @@ title: Conditions Treated
    [Bunion (Hallux Valgus)](conditions/forefoot-bunion)  
    [Great Toe Arthritis (1st MTPJ OA)](conditions/forefoot-mtpj)  
    [Lesser Toe Deformities](conditions/lesser-toe)
-   [Morton's Neuroma](mortons-neuroma)
+   [Morton's Neuroma](conditions/mortons-neuroma)
 
 
 * Midfoot
 
    [Arthritis](conditions/midfoot-oa)  
-   [Flatfoot / Tibialis posterior dysfunction](flatfoot)  
-   [Cavovarus foot / CMT](midfoot-cavovarus)
+   [Flatfoot / Tibialis posterior dysfunction](conditions/flatfoot)  
+   [Cavovarus foot / CMT](conditions/midfoot-cavovarus)
 
 
 * Hindfoot
 
-   [Arthritis](hindfoot-arthritis)  
-   [Achilles Tendinopathy](hindfoot-tendinopath)  
-   [Achilles Rupture - Acute or Chronic](hindfoot-rupture)
+   [Arthritis](conditions/hindfoot-arthritis)  
+   [Achilles Tendinopathy](conditions/tendinopathy)  
+   [Achilles Rupture - Acute or Chronic](conditions/rupture)
 
 
 * Ankle
 
-   [Arthritis](ankle-arthritis)  
-   [Instability](ankle-instability)   
-   [Peroneal tendon pathology](ankle-peronealtendon) 
-   [Intra-articular pathology](ankle-intraarticular) 
+   [Arthritis](conditions/ankle-arthritis)  
+   [Instability](conditions/instability)   
+   [Peroneal tendon pathology](conditions/peroneal-tendon) 
+   [Intra-articular pathology](conditions/intra-articular) 
 
 
 * Others
 
-   [Tiptoe Walking](tiptoewalking)  
-   [Tarsal Tunnel Syndrome](tarsaltunnel) 
-   [Diabetic Feet](diabeticfeet) 
+   [Tiptoe Walking](conditions/tiptoe-walking)  
+   [Tarsal Tunnel Syndrome](conditions/tarsal-tunnel) 
+   [Diabetic Feet](conditions/diabetic-feet) 
