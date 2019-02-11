@@ -20,13 +20,15 @@ Initial treatment of {{ page.description }} could include:
 <h2>Surgical Treatment</h2>
 Surgical treatment of {{page.description}} includes:
 <p>{{ page.surgicalTreatment | markdownify }}</p>
-<p> The risks of surgery are: </p>
+<p>Condition specific risks include:</p>
+{{ page.risks | markdownify }}
+
+<p>General risks of surgery include:</p>
 <ol>
   <li>Infection</li>
   <li>Damage to nerves/blood vessels</li>
   <li>DVT / PE (blood clots)</li>
   <li>Anaesthetic risks</li>
-{{ page.risks | markdownify }}
 </ol>
 
 <h2>Recovery</h2>
