@@ -9,8 +9,8 @@ title: Conditions Treated
 * Forefoot
 
    [Bunion (Hallux Valgus)](conditions/forefoot-bunion)  
-   [Great Toe Arthritis (1st MTPJ OA)](conditions/forefoot-mtpj)  
-   [Lesser Toe Deformities](conditions/lesser-toe)
+   [Great Toe Arthritis (1st MTPJ OA)](conditions/forefoot-mtpj)    
+   [Lesser Toe Deformities](conditions/lesser-toe)    
    [Morton's Neuroma](conditions/mortons-neuroma)
 
 
@@ -32,12 +32,12 @@ title: Conditions Treated
 
    [Arthritis](conditions/ankle-arthritis)  
    [Instability](conditions/instability)   
-   [Peroneal tendon pathology](conditions/peroneal-tendon) 
+   [Peroneal tendon pathology](conditions/peroneal-tendon)  
    [Intra-articular pathology](conditions/intra-articular) 
 
 
 * Others
 
    [Tiptoe Walking](conditions/tiptoe-walking)  
-   [Tarsal Tunnel Syndrome](conditions/tarsal-tunnel) 
+   [Tarsal Tunnel Syndrome](conditions/tarsal-tunnel)    
    [Diabetic Feet](conditions/diabetic-feet) 
