@@ -10,14 +10,14 @@ title: Conditions Treated
 
    [Bunion (Hallux Valgus)](conditions/forefoot-bunion)  
    [Great Toe Arthritis (1st MTPJ OA)](conditions/forefoot-mtpj)  
-   [Lesser Toe Deformities](conditions/forefoot-lessertoe)
-   [Morton's Neuroma](forefoot-mortonsneuroma)
+   [Lesser Toe Deformities](conditions/lesser-toe)
+   [Morton's Neuroma](mortons-neuroma)
 
 
 * Midfoot
 
    [Arthritis](conditions/midfoot-oa)  
-   [Flatfoot / Tibialis posterior dysfunction](midfoot-flat)  
+   [Flatfoot / Tibialis posterior dysfunction](flatfoot)  
    [Cavovarus foot / CMT](midfoot-cavovarus)
 
 
