@@ -17,4 +17,4 @@ To speed up referrals and ensure accuracy every referral needs to include the fo
 3. Details of observation
 4. Length of problem
 
-If you would like to get more information then please email <referrals@varrall.com>.
+If you would like to get more information then please contact Rockhampton Base Hospital.
