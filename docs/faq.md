@@ -17,9 +17,6 @@ title: Frequently Asked Questions
  
 **4. Where will my surgery be?**
  - All operations will be performed at Rockhampton Base Hospital
- 
-**5. I have a question that hasn’t been answered here - how do I get in touch?**
- - You can email footinfo@varrall.com 
- 
-**6. How do I organise an appointment to see Dr Varrall?**
+  
+**5. How do I organise an appointment to see Dr Varrall?**
  - Please ask your GP to send a referral as directed on the GP information page
