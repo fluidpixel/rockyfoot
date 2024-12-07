@@ -12,4 +12,4 @@ Dr Varrall is a Fellow of the Royal College of Surgeons of England and a member 
 
 Dr Varrall has presented locally and internationally at conferences and had a number of journal articles published.
 
-Dr Varrall lives in Rockhampton with her husband and daughter. In addition to fixing feet, she likes decorating cakes and playing sport!
+Dr Varrall lives in Rockhampton with her husband, daughter and son. In addition to fixing feet, she likes decorating cakes and playing sport!
