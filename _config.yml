@@ -1,1 +1,30 @@
-theme: jekyll-theme-cayman
+#remote_theme: fluidpixel/freelancer-theme
+
+# theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://rockyfoot.com" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Site Settings
+title: Rocky Foot and Ankle Surgery
+description: >
+  Dr Ruth Varrall MBBS FRCS FRACS
+  Consultant Orthopaedic Foot and Ankle Surgeon
+
+# Footer settings
+footer:
+  copyright: Dr. Ruth Varrall
+  location: address
+  social: DrRuthy
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Rockhampton Base Hospital
+  - line: QLD
+
+collections:
+  conditions:
+      output: true
