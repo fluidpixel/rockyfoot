@@ -6,15 +6,14 @@ title: GP Referrals
 
 # How to refer a patient
 
-If you're a GP and wish to refer a patient to Dr Varrall then please read the following.
+Dr Varrall will commence seeing private patients in June 2026.
+If you would like a consultation with Dr Varrall regarding your foot or ankle problem, please ask your GP to refer you to her private rooms. 
+Email: [rockyfoot@varrall.com](mailto:rockyfoot@varrall.com)
+Telephone: 07 4801 4321
+Fax: 07 3521 5959 
 
-Referrals are by Fax and need to be sent to the clinic on XXX
+Location: Suite 4, Kenmore Medical Centre (part of Mater Hospital), 31 Ward Street, The Range QLD 4700
 
-To speed up referrals and ensure accuracy every referral needs to include the following:
+If organising an x-ray prior to your appointment, please ensure it is weightbearing, otherwise it will need to be repeated. 
 
-1. Patient's name
-2. Your name
-3. Details of observation
-4. Length of problem
-
-If you would like to get more information then please contact Rockhampton Base Hospital.
+Patients without private insurance can see Dr Varrall at Rockhampton Base Hospital - please send a referral through Smart Referrals ensuring all Clinical Prioritisation Criteria (CPC) are included. 

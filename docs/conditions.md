@@ -38,6 +38,5 @@ title: Conditions Treated
 
 * Others
 
-   [Tiptoe Walking](conditions/tiptoe-walking)  
-   [Tarsal Tunnel Syndrome](conditions/tarsal-tunnel)    
+   [Tiptoe Walking](conditions/tiptoe-walking)   
    [Diabetic Feet](conditions/diabetic-feet) 
