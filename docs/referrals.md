@@ -8,7 +8,7 @@ title: GP Referrals
 
 Dr Varrall will commence seeing private patients in June 2026.
 If you would like a consultation with Dr Varrall regarding your foot or ankle problem, please ask your GP to refer you to her private rooms. 
-Email: [rockyfoot@varrall.com](mailto:rockyfoot@varrall.com)
+Email: [admin@rockyfoot.com](mailto:admin@rockyfoot.com)
 Telephone: 07 4801 4321
 Fax: 07 3521 5959 
 
